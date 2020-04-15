@@ -1,11 +1,11 @@
 # BigData
 Project code for Introduction to Big Data Analytics class. <br>
-Project 1: <br>
-QUERY 1: Find for the most frequently used noun Ignore all articles, conjunctions, prepositions, adjectives, adverbs, only focus on nouns.). Consider including NLTK part-of-speech tagger to remove those. Here is an example https://stackoverflow.com/questions/24406201/how-do-i-remove-verbs-prepositions-conjunctions-etc-from-my-text/24406270
+## Project 1: <br>
+1. QUERY 1: Find for the most frequently used noun Ignore all articles, conjunctions, prepositions, adjectives, adverbs, only focus on nouns.). Consider including NLTK part-of-speech tagger to remove those. Here is an example https://stackoverflow.com/questions/24406201/how-do-i-remove-verbs-prepositions-conjunctions-etc-from-my-text/24406270
 
-QUERY 2: Find news about things in Thailand You may filter posts which have “thai” in it. To be more accurate, provinces could be used. And find the popular nouns in those posts.
+2. QUERY 2: Find news about things in Thailand You may filter posts which have “thai” in it. To be more accurate, provinces could be used. And find the popular nouns in those posts.
 <br>
-Project 2: <br>
+## Project 2: <br>
 Tasks
 
 1. Find the Amazon product data from http://jmcauley.ucsd.edu/data/amazon/ I am not telling you to download the datasets since they are gigantic.
