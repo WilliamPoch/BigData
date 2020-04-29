@@ -31,3 +31,6 @@ o Let’s use only rating and review for trust calculation.
 · Perform sentiment analysis to obtain “positive”, “neutral”, or “negative”.
 
 · Output of the process is in the following form (brand, trust, rating) Where trust is from your calculation and rating is the average rating for the brand.
+<br>
+## Final Practical Exam <br>
+Data analytics on WHO COVID-19 dataset
